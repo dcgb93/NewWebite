@@ -1,0 +1,63 @@
+h2 {  text-align: center;
+    border: 3px;
+
+}
+
+.boxed { width: 300px;
+    border: 25px solid grey;
+    padding: 25px;
+    margin: 25px;
+    align-items: center;
+ }
+
+ .image { text-align: center;
+        border-radius: 50% ;
+
+
+ }
+
+ .boxed:hover {
+  color: #97bbf4;
+
+ }
+
+img { border-radius: 15% ;
+  }
+
+.description {
+  text-align: center;
+  margin: 50px;
+}
+
+body {
+   font-family: 'Open Sans', sans-serif;
+   color: white ;
+}
+
+a:hover {
+ color: #d12f17;
+}
+
+.style {
+  margin: auto;
+  width: 50%;
+  border: 3px solid grey;
+  padding: 10px;
+  background-color: solid black;
+
+}
+.line {
+  display: flex;
+}
+
+.new {
+  border: 4px;
+ ;
+}
+
+body {
+background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url("images/new.jpg");
+
+
+
+}
